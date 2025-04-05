@@ -1,4 +1,5 @@
 Desenvolvi um sistema básico de gerenciamento de livros de uma biblioteca utilizando python, MySQL, Tkinter.
+
   °Projetei e implemnetei a interface do usuário com TKinter
   °Conectei a aplicação com um banco de dados MySQL
   °Implementei siatema de cadasdro, consulta de pendencias, devoluções
